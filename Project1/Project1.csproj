@@ -41,6 +41,7 @@
   <ItemGroup>
     <Compile Include="Circle.cs" />
     <Compile Include="Collision.cs" />
+    <Compile Include="PhysicalObject.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="MyWindow.cs" />
     <Compile Include="Scene.cs" />
